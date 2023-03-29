@@ -80,7 +80,7 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 ## **Project Website Link**
 
-- https://optisave.netlify.app
+- https://amyyeth.netlify.app
 
 
 
