@@ -2,7 +2,7 @@
 
 <br>
 <div align="center">
-    <img src="public/logo.gif" height="70" alt="Lenster Logo">
+    <img src="public/logo.gif" height="70" alt="">
     <h1>AMMYETH</h1>
     <strong align="center">Bank your way to freedom </strong>
 </div>
@@ -65,6 +65,10 @@ To learn more about [Vite](https://vitejs.dev/), [RainbowKit](https://rainbowkit
 
 
 # Smart Contract
+
+**Styled using Bulma CSS**
+- (https://bulma.io)
+
 
 ## 🔧 Technology Stack & Tools
 
